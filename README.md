@@ -7,9 +7,3 @@ function sayHello() {
     // Use console.log to display results.
 
     console.log('Hello, ' + name + '!');
-
-}
-
-// Press the play button to see the result.
-
-sayHello();
